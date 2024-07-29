@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator.csproj", "{CD18B946-4D39-4B8D-97A7-47552A6F3327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.BLL", "..\Calculator.BLL\Calculator.BLL.csproj", "{ADE8CA1E-1FBC-4C41-BE63-2243DE280897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.PL", "..\Calculator.PL\Calculator.PL.csproj", "{98212EC8-068D-4FCE-964B-E485C9131E48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD18B946-4D39-4B8D-97A7-47552A6F3327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD18B946-4D39-4B8D-97A7-47552A6F3327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD18B946-4D39-4B8D-97A7-47552A6F3327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD18B946-4D39-4B8D-97A7-47552A6F3327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE8CA1E-1FBC-4C41-BE63-2243DE280897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE8CA1E-1FBC-4C41-BE63-2243DE280897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE8CA1E-1FBC-4C41-BE63-2243DE280897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE8CA1E-1FBC-4C41-BE63-2243DE280897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98212EC8-068D-4FCE-964B-E485C9131E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98212EC8-068D-4FCE-964B-E485C9131E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98212EC8-068D-4FCE-964B-E485C9131E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98212EC8-068D-4FCE-964B-E485C9131E48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

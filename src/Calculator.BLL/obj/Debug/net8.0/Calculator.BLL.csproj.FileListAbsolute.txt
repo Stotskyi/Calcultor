@@ -1,0 +1,13 @@
+D:\Projects\Calcultor\src\Calculator.BLL\bin\Debug\net8.0\Calculator.BLL.deps.json
+D:\Projects\Calcultor\src\Calculator.BLL\bin\Debug\net8.0\Calculator.BLL.dll
+D:\Projects\Calcultor\src\Calculator.BLL\bin\Debug\net8.0\Calculator.BLL.pdb
+D:\Projects\Calcultor\src\Calculator.BLL\obj\Debug\net8.0\Calculator.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Calcultor\src\Calculator.BLL\obj\Debug\net8.0\Calculator.BLL.AssemblyInfoInputs.cache
+D:\Projects\Calcultor\src\Calculator.BLL\obj\Debug\net8.0\Calculator.BLL.AssemblyInfo.cs
+D:\Projects\Calcultor\src\Calculator.BLL\obj\Debug\net8.0\Calculator.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\Calcultor\src\Calculator.BLL\obj\Debug\net8.0\Calculator.BLL.sourcelink.json
+D:\Projects\Calcultor\src\Calculator.BLL\obj\Debug\net8.0\Calculator.BLL.dll
+D:\Projects\Calcultor\src\Calculator.BLL\obj\Debug\net8.0\refint\Calculator.BLL.dll
+D:\Projects\Calcultor\src\Calculator.BLL\obj\Debug\net8.0\Calculator.BLL.pdb
+D:\Projects\Calcultor\src\Calculator.BLL\obj\Debug\net8.0\ref\Calculator.BLL.dll
+D:\Projects\Calcultor\src\Calculator.BLL\obj\Debug\net8.0\Calculator.BLL.csproj.AssemblyReference.cache

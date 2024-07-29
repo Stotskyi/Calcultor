@@ -1,0 +1,16 @@
+D:\Projects\Calcultor\src\Calculator.PL\bin\Debug\net8.0\Calculator.PL.deps.json
+D:\Projects\Calcultor\src\Calculator.PL\bin\Debug\net8.0\Calculator.PL.dll
+D:\Projects\Calcultor\src\Calculator.PL\bin\Debug\net8.0\Calculator.PL.pdb
+D:\Projects\Calcultor\src\Calculator.PL\bin\Debug\net8.0\Calculator.BLL.dll
+D:\Projects\Calcultor\src\Calculator.PL\bin\Debug\net8.0\Calculator.BLL.pdb
+D:\Projects\Calcultor\src\Calculator.PL\obj\Debug\net8.0\Calculator.PL.csproj.AssemblyReference.cache
+D:\Projects\Calcultor\src\Calculator.PL\obj\Debug\net8.0\Calculator.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Calcultor\src\Calculator.PL\obj\Debug\net8.0\Calculator.PL.AssemblyInfoInputs.cache
+D:\Projects\Calcultor\src\Calculator.PL\obj\Debug\net8.0\Calculator.PL.AssemblyInfo.cs
+D:\Projects\Calcultor\src\Calculator.PL\obj\Debug\net8.0\Calculator.PL.csproj.CoreCompileInputs.cache
+D:\Projects\Calcultor\src\Calculator.PL\obj\Debug\net8.0\Calculator.PL.sourcelink.json
+D:\Projects\Calcultor\src\Calculator.PL\obj\Debug\net8.0\Calculat.7CBC8305.Up2Date
+D:\Projects\Calcultor\src\Calculator.PL\obj\Debug\net8.0\Calculator.PL.dll
+D:\Projects\Calcultor\src\Calculator.PL\obj\Debug\net8.0\refint\Calculator.PL.dll
+D:\Projects\Calcultor\src\Calculator.PL\obj\Debug\net8.0\Calculator.PL.pdb
+D:\Projects\Calcultor\src\Calculator.PL\obj\Debug\net8.0\ref\Calculator.PL.dll
