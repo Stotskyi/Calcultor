@@ -4,6 +4,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Serilog;
 
+namespace Calculator;
+
 class Program
 {
     static void Main(string[] args)
